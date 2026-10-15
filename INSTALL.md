@@ -4,7 +4,7 @@ Paste everything below the line into Claude Code, as-is.
 
 ---
 
-Install the **agent-fleet** subagents from https://github.com/serogo321/agent-fleet. Follow these steps in order:
+Install the **vision-to-prod--agent-fleet** subagents from https://github.com/serogo321/vision-to-prod--agent-fleet. Follow these steps in order:
 
 1. **Ask me where to install them** and wait for my answer:
    - **for me, in every project:** `~/.claude/agents/`
@@ -12,7 +12,7 @@ Install the **agent-fleet** subagents from https://github.com/serogo321/agent-fl
 
    A project-level file overrides a user-level file with the same name.
 2. **Get the files.** Clone the repository into a temporary directory with
-   `git clone --depth 1 https://github.com/serogo321/agent-fleet <temp dir>`. If I give you a local path to a copy
+   `git clone --depth 1 https://github.com/serogo321/vision-to-prod--agent-fleet <temp dir>`. If I give you a local path to a copy
    instead, use that. You only need the `.md` files in its `agents/` folder.
 3. **Check for name clashes before copying anything.** For each file in `agents/`:
    - **If the target folder has no file with that name,** it is a new agent: copy it.

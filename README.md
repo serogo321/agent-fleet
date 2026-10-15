@@ -1,4 +1,4 @@
-# agent-fleet
+# Vision to prod: an agent fleet for Claude Code
 
 Eleven [Claude Code](https://docs.claude.com/en/docs/claude-code) subagent contracts that work as one team:
 - **an orchestrator** that plans and routes the work;
