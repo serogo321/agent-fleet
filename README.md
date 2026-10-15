@@ -9,6 +9,9 @@ Every rule in these contracts came from a failure that cost something real. They
 
 Install: hand [INSTALL.md](INSTALL.md) to Claude Code.
 
+New to it? Read [HOW-TO-USE.md](HOW-TO-USE.md) next. It explains in plain words what to type, how to write a good
+milestone, and gives simple and complex examples.
+
 ## The agents
 
 | Agent | Model · effort | What it does |
